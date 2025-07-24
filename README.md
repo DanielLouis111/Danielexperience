@@ -36,5 +36,5 @@ A remote-controlled pet feeder system using an STM32 microcontroller. I was the 
 ## 📫 Contact Me
 
 - **Email:** DGK_louis@outlook.com
-- **LinkedIn:** [[linkedin.com/in/yourname](https://linkedin.com/in/daniel-saad-0b0b91291) 
+- **LinkedIn:** [linkedin.com/in/daniel-saad](https://linkedin.com/in/daniel-saad-0b0b91291) 
 
