@@ -28,7 +28,7 @@ Welcome to my personal GitHub portfolio! This repository contains a collection o
 **Technologies:** Arduino, Servo Motor, LCD, Buttons  
 A remote-controlled pet feeder system using an STM32 microcontroller. I was the **team leader**, responsible for circuit design, programming, and integration.
 
-[View Project Folder](./Remote-Pet-Feeder)
+[View Project Folder](./@DanielLouis111-s-Pet-feeder-project)
 
 
 ---
